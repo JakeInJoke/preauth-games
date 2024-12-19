@@ -1,7 +1,3 @@
-import os
-
-
-
 def findMyPair(_arrayM,_toFindN):
     """
     Funcion para encontrar el primer par de numeros que consiguen formar el numero buscado.
