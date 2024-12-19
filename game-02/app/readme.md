@@ -1,0 +1,1 @@
+I added g-rose-main.ts just to simulate how the script work
