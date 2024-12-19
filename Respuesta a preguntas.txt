@@ -1,0 +1,7 @@
+Envío mis respuestas a las preguntas provistas mediante el correo.
+
+1. ¿Tienes disponibilidad para laborar remoto con asistencia a reuniones presenciales? SI 
+2. ¿Tienes experiencia en construcción de APIs? Si, 1 año o más
+3. ¿Tienes experiencia en PHP y Laravel? SI
+
+Saludos.
